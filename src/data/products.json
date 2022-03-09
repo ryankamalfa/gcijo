@@ -1,0 +1,1745 @@
+[
+  {
+    "id": "1",
+    "sku": "asdf105",
+    "name": "Emulsion",
+    "slug": "emulsion",
+    "price": 16,
+    "discount": 0,
+    "new": true,
+    "rating": 2,
+    "ratingCount": 5,
+    "saleCount": 12,
+    "serial": "GP-050",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 14,
+    "thumbImage": [
+      "/assets/images/product/arch/emulsion.jpg",
+      "/assets/images/product/arch/emulsion.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/emulsion.jpg"
+    ],
+    "productTDSFile": "/assets/tds/emulsion.pdf",
+    "shortDescription": "A high quality water-based paint based on acrylic polymers and coloring materials of high quality. After application, it gives a smooth, uniformly white surface. It also gives long-term protection to internal surfaces. It is characterized by high resistance to different atmospheres, and at a high rate of brushing and coverage.",
+    "fullDescription": "A high quality water-based paint based on acrylic polymers and coloring materials of high quality. After application, it gives a smooth, uniformly white surface. It also gives long-term protection to internal surfaces. It is characterized by high resistance to different atmospheres, and at a high rate of brushing and coverage."
+  },
+  {
+    "id": "2",
+    "sku": "asdf107",
+    "name": "Emulsion Extra 200",
+    "slug": "emulsion-extra-200",
+    "price": 17,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 7,
+    "saleCount": 13,
+    "serial": "Emulsion Extra 200",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 18,
+    "thumbImage": [
+      "/assets/images/product/arch/emulsion-extra-200.jpg",
+      "/assets/images/product/arch/emulsion-extra-200.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/emulsion-extra-200.jpg"
+    ],
+    "productTDSFile": "/assets/tds/emulsion-extra-200.pdf",
+    "shortDescription": "A high-quality water-based paint based on acrylic polymers and high-quality colored materials. After application it gives a smooth, uniformly white surface. It also gives long-term protection for internal and external surfaces. It is characterized by high resistance to different atmospheres, at a high rate of brushing and coverage.",
+    "fullDescription": "A high-quality water-based paint based on acrylic polymers and high-quality colored materials. After application it gives a smooth, uniformly white surface. It also gives long-term protection for internal and external surfaces. It is characterized by high resistance to different atmospheres, at a high rate of brushing and coverage."
+  },
+  {
+    "id": "3",
+    "sku": "asdf104",
+    "name": "Eggshell",
+    "slug": "eggshell",
+    "price": 12,
+    "discount": 5,
+    "new": true,
+    "rating": 4,
+    "ratingCount": 15,
+    "saleCount": 19,
+    "serial": "GP-051",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 12,
+    "thumbImage": [
+      "/assets/images/product/arch/eggshell.jpg",
+      "/assets/images/product/arch/eggshell.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/eggshell.jpg"
+    ],
+    "productTDSFile": "/assets/tds/eggshell.pdf",
+    "shortDescription": "A high quality water-based paint based on acrylic polymers and high quality coloring materials. After application, it gives a smooth, regular, bright white surface that resembles an egg shell. It also gives long-term protection to the internal surfaces, it is characterized by high resistance to different atmospheres and with a high brushing rate and coverage.",
+    "fullDescription": "A high quality water-based paint based on acrylic polymers and high quality coloring materials. After application, it gives a smooth, regular, bright white surface that resembles an egg shell. It also gives long-term protection to the internal surfaces, it is characterized by high resistance to different atmospheres and with a high brushing rate and coverage."
+  },
+  {
+    "id": "4",
+    "sku": "asdf109",
+    "name": "Vinyl Silk",
+    "slug": "vinyl-silk",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-052",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/vinyl-silk.jpg",
+      "/assets/images/product/arch/vinyl-silk.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/vinyl-silk.jpg"
+    ],
+    "productTDSFile": "/assets/tds/vinyl-silk.pdf",
+    "shortDescription": "A high quality water-based paint based on high quality polymers and coloring materials. After application, it gives a smooth, shiny, even white surface. It also gives long lasting protection to interior surfaces. It is characterized by high resistance to different atmospheres, the brush rate, high coverage, very high adhesion strength, and is also characterized by easy removal of stains and dirt and the ability to wash with soap and water.",
+    "fullDescription": "A high quality water-based paint based on high quality polymers and coloring materials. After application, it gives a smooth, shiny, even white surface. It also gives long lasting protection to interior surfaces. It is characterized by high resistance to different atmospheres, the brush rate, high coverage, very high adhesion strength, and is also characterized by easy removal of stains and dirt and the ability to wash with soap and water."
+  },
+  {
+    "id": "5",
+    "sku": "asdf106",
+    "name": "Tinting",
+    "slug": "tinting",
+    "price": 12,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 4,
+    "saleCount": 16,
+    "serial": "TINTING",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 0,
+    "thumbImage": [
+      "/assets/images/product/arch/tinting.jpg",
+      "/assets/images/product/arch/tinting.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/tinting.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "6",
+    "sku": "asdf106",
+    "name": "Emulsion Plus",
+    "slug": "emulsion-plus",
+    "price": 12,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 4,
+    "saleCount": 16,
+    "serial": "GP-053",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 0,
+    "thumbImage": [
+      "/assets/images/product/arch/emulsion-plus.jpg",
+      "/assets/images/product/arch/emulsion-plus.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/emulsion-plus.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "7",
+    "sku": "asdf103",
+    "name": "Bonding Sealer",
+    "slug": "bonding-sealer",
+    "price": 14,
+    "discount": 0,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 13,
+    "serial": "GP-020",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 10,
+    "thumbImage": [
+      "/assets/images/product/arch/bonding-sealer.jpg",
+      "/assets/images/product/arch/bonding-sealer.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/bonding-sealer.jpg"
+    ],
+    "productTDSFile": "/assets/tds/bonding-sealer.pdf",
+    "shortDescription": "A transparent water-based base based on acrylic polymers, used for both interior and exterior surfaces, with high adhesion strength.",
+    "fullDescription": "A transparent water-based base based on acrylic polymers, used for both interior and exterior surfaces, with high adhesion strength."
+  },
+  {
+    "id": "8",
+    "sku": "asdf103",
+    "name": "Bonding Sealer Extra 200",
+    "slug": "bonding-sealer-extra-200",
+    "price": 14,
+    "discount": 0,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 13,
+    "serial": "Bonding Sealer Extra 200",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 10,
+    "thumbImage": [
+      "/assets/images/product/arch/bonding-sealer-extra-200.jpg",
+      "/assets/images/product/arch/bonding-sealer-extra-200.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/bonding-sealer-extra-200.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "10",
+    "sku": "asdf109",
+    "name": "Polyseed",
+    "slug": "polyseed",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-058",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/polyseed.jpg",
+      "/assets/images/product/arch/polyseed.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/polyseed.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "11",
+    "sku": "asdf109",
+    "name": "Supercryl",
+    "slug": "supercryl",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-054",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/supercryl.jpg",
+      "/assets/images/product/arch/supercryl.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/supercryl.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "12",
+    "sku": "asdf109",
+    "name": "Supercryl Extra",
+    "slug": "super-cryl-extra",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-055",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/super-cryl-extra.jpg",
+      "/assets/images/product/arch/super-cryl-extra.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/super-cryl-extra.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "13",
+    "sku": "asdf109",
+    "name": "Under Coat",
+    "slug": "under-coat",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-062",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/under-coat.jpg",
+      "/assets/images/product/arch/under-coat.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/under-coat.jpg"
+    ],
+    "productTDSFile": "/assets/tds/under-coat.pdf",
+    "shortDescription": "Top quality, solvent base undercoat paint based on high quality of alkyd resin, it has an excellent weather resistance.",
+    "fullDescription": "Top quality, solvent base undercoat paint based on high quality of alkyd resin, it has an excellent weather resistance."
+  },
+  {
+    "id": "14",
+    "sku": "asdf109",
+    "name": "Texture",
+    "slug": "tex",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-042",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/tex.jpg",
+      "/assets/images/product/arch/tex.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/tex.jpg"
+    ],
+    "productTDSFile": "/assets/tds/tex.pdf",
+    "shortDescription": "A high quality final rough spray paint, based on acrylic preparations, which is characterized by its resistance to weather conditions.",
+    "fullDescription": "A high quality final rough spray paint, based on acrylic preparations, which is characterized by its resistance to weather conditions."
+  },
+  {
+    "id": "15",
+    "sku": "asdf109",
+    "name": "Texture Putty",
+    "slug": "texture-putty",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-041",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/texture-putty.jpg",
+      "/assets/images/product/arch/texture-putty.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/texture-putty.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "16",
+    "sku": "asdf109",
+    "name": "Weather Shield",
+    "slug": "weather-shield",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-057",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/weather-shield.jpg",
+      "/assets/images/product/arch/weather-shield.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/weather-shield.jpg"
+    ],
+    "productTDSFile": "/assets/tds/weather-shield.pdf",
+    "shortDescription": "A high-quality water-based paint based on special polymers and high-quality coloring materials. After application, give a uniform smooth white surface. It also gives long-term protection for outdoor surfaces. It is characterized by its high resistance to various weather factors, the mattress rate and high coverage.",
+    "fullDescription": "A high-quality water-based paint based on special polymers and high-quality coloring materials. After application, give a uniform smooth white surface. It also gives long-term protection for outdoor surfaces. It is characterized by its high resistance to various weather factors, the mattress rate and high coverage."
+  },
+  {
+    "id": "17",
+    "sku": "asdf109",
+    "name": "Roof Coating",
+    "slug": "roof-coating",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-056",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/roof-coating.jpg",
+      "/assets/images/product/arch/roof-coating.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/roof-coating.jpg"
+    ],
+    "productTDSFile": "/assets/tds/roof-coating.pdf",
+    "shortDescription": "A flexible, high-performance surface waterproofing based on acrylic emulsions, characterized by high flexibility and water resistance.",
+    "fullDescription": "A flexible, high-performance surface waterproofing based on acrylic emulsions, characterized by high flexibility and water resistance."
+  },
+  {
+    "id": "18",
+    "sku": "asdf109",
+    "name": "Wall Putty",
+    "slug": "wall-putty",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-040",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/arch/wall-putty.jpg",
+      "/assets/images/product/arch/wall-putty.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/wall-putty.jpg"
+    ],
+    "productTDSFile": "/assets/tds/wall-putty.pdf",
+    "shortDescription": "High-quality water-based paste, which is based on a special formula. Designed to level surfaces.",
+    "fullDescription": "High-quality water-based paste, which is based on a special formula. Designed to level surfaces."
+  },
+  {
+    "id": "61",
+    "sku": "asdf106",
+    "name": "Fill Joint",
+    "slug": "fill-joint",
+    "price": 12,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 4,
+    "saleCount": 16,
+    "serial": "Fill Joint",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 0,
+    "thumbImage": [
+      "/assets/images/product/arch/fill-joint.jpg",
+      "/assets/images/product/arch/fill-joint.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/fill-joint.jpg"
+    ],
+    "productTDSFile": "/assets/tds/fill-joint.pdf",
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "19",
+    "sku": "asdf106",
+    "name": "Zinc Based",
+    "slug": "zinc-based",
+    "price": 12,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 4,
+    "saleCount": 16,
+    "serial": "Zinc Based Primer",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 0,
+    "thumbImage": [
+      "/assets/images/product/arch/zinc-based.jpg",
+      "/assets/images/product/arch/zinc-based.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/zinc-based.jpg"
+    ],
+    "productTDSFile": "/assets/tds/zinc-based.pdf",
+    "shortDescription": " A high-quality, anti-corrosion alkyd primer with zinc phosphate anticorrosion pigments under exposure to weather conditions. ",
+    "fullDescription": "A high-quality, anti-corrosion alkyd primer with zinc phosphate anticorrosion pigments under exposure to weather conditions. "
+  },
+  {
+    "id": "20",
+    "sku": "asdf102",
+    "name": "Anti Rust Primer",
+    "slug": "anti-rust-primer",
+    "price": 18,
+    "discount": 12,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 15,
+    "saleCount": 10,
+    "serial": "GP-063",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 10,
+    "thumbImage": [
+      "/assets/images/product/arch/anti-rust-primer.jpg",
+      "/assets/images/product/arch/anti-rust-primer.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/anti-rust-primer.jpg"
+    ],
+    "productTDSFile": "/assets/tds/anti-rust-primer.pdf",
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "21",
+    "sku": "asdf103",
+    "name": "Enamel Paint",
+    "slug": "enamel-paint",
+    "price": 14,
+    "discount": 0,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 13,
+    "serial": "Enamiel Paint",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 10,
+    "thumbImage": [
+      "/assets/images/product/arch/enamel-paint.jpg",
+      "/assets/images/product/arch/enamel-paint.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/enamel-paint.jpg"
+    ],
+    "productTDSFile": "/assets/tds/enamel.pdf",
+    "shortDescription": "Top quality decorative architectural paint based on high quality alkyd resin. Used for all types of surfaces (Concrete, Wood, and Metal). Used for exterior and interior surfaces.",
+    "fullDescription": "Top quality decorative architectural paint based on high quality alkyd resin. Used for all types of surfaces (Concrete, Wood, and Metal). Used for exterior and interior surfaces."
+  },
+  {
+    "id": "9",
+    "sku": "asdf103",
+    "name": "Enamel Paint Extra 200",
+    "slug": "enamel-paint-extra-200",
+    "price": 14,
+    "discount": 0,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 13,
+    "serial": "Enamel Paint Extra 200",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 10,
+    "thumbImage": [
+      "/assets/images/product/arch/enamel-paint-extra-200.jpg",
+      "/assets/images/product/arch/enamel-paint-extra-200.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/enamel-paint-extra-200.jpg"
+    ],
+    "shortDescription": "Top quality decorative architectural paint based on high quality alkyd resin. Used for all types of surfaces (Concrete, Wood, and Metal). Used for exterior and interior surfaces.",
+    "fullDescription": "Top quality decorative architectural paint based on high quality alkyd resin. Used for all types of surfaces (Concrete, Wood, and Metal). Used for exterior and interior surfaces."
+  },
+  {
+    "id": "22",
+    "sku": "asdf108",
+    "name": "Hammer Finish",
+    "slug": "hammer-finish",
+    "price": 40,
+    "discount": 0,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 15,
+    "saleCount": 30,
+    "serial": "GP-3000",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 12,
+    "thumbImage": [
+      "/assets/images/product/arch/hammer-finish.jpg",
+      "/assets/images/product/arch/hammer-finish.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/hammer-finish.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "23",
+    "sku": "asdf109",
+    "name": "Crystal",
+    "slug": "crystal",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Crystal",
+    "category": [
+      "Decorative"
+    ],
+    "tag": [
+      "Decorative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/decor/crystal.jpg",
+      "/assets/images/product/decor/crystal.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/crystal.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "24",
+    "sku": "asdf109",
+    "name": "Bacca",
+    "slug": "bacca",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Bacca",
+    "category": [
+      "Decorative"
+    ],
+    "tag": [
+      "Decorative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/decor/crystal.jpg",
+      "/assets/images/product/decor/crystal.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/crystal.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "25",
+    "sku": "asdf109",
+    "name": "Novel",
+    "slug": "novel",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Novel",
+    "category": [
+      "Decorative"
+    ],
+    "tag": [
+      "Decorative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/decor/crystal.jpg",
+      "/assets/images/product/decor/crystal.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/crystal.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "26",
+    "sku": "asdf109",
+    "name": "Kafear",
+    "slug": "kafear",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Kafear",
+    "category": [
+      "Decorative"
+    ],
+    "tag": [
+      "Decorative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/decor/crystal.jpg",
+      "/assets/images/product/decor/crystal.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/crystal.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "27",
+    "sku": "asdf109",
+    "name": "Vera",
+    "slug": "vera",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Vera",
+    "category": [
+      "Decorative"
+    ],
+    "tag": [
+      "Decorative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/decor/vera.jpg",
+      "/assets/images/product/decor/vera.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/vera.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "28",
+    "sku": "asdf109",
+    "name": "Ice",
+    "slug": "ice",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Ice",
+    "category": [
+      "Decorative"
+    ],
+    "tag": [
+      "Decorative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/decor/ice.jpg",
+      "/assets/images/product/decor/ice.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/ice.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "30",
+    "sku": "asdf109",
+    "name": "Glaze",
+    "slug": "glaze",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Glaze",
+    "category": [
+      "Decorative"
+    ],
+    "tag": [
+      "Decorative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/decor/glaze.jpg",
+      "/assets/images/product/decor/glaze.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/glaze.jpg"
+    ],
+    "productTDSFile": "/assets/tds/glaze.pdf",
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "31",
+    "sku": "asdf109",
+    "name": "NC Paints",
+    "slug": "nc-paints",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-600",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/nc-paints.jpg",
+      "/assets/images/product/industrial/nc-paints.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/nc-paints.jpg"
+    ],
+    "productTDSFile": "/assets/tds/nc-paints.pdf",
+    "shortDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance.",
+    "fullDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance."
+  },
+  {
+    "id": "32",
+    "sku": "asdf109",
+    "name": "NC Putty",
+    "slug": "nc-putty",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-260",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/nc-putty.jpg",
+      "/assets/images/product/industrial/nc-putty.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/nc-putty.jpg"
+    ],
+    "productTDSFile": "/assets/tds/nc-putty.pdf",
+    "shortDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance.",
+    "fullDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance."
+  },
+  {
+    "id": "39",
+    "sku": "asdf109",
+    "name": "2K Acrylic Top Coat",
+    "slug": "2k-acrylic-top-coat",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-500",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/2k-acrylic-top-coat.jpg",
+      "/assets/images/product/auto/2k-acrylic-top-coat.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/2k-acrylic-top-coat.jpg"
+    ],
+    "productTDSFile": "/assets/tds/2k-acrylic-top-coat.pdf",
+    "shortDescription": "GP-500 is two component acrylic polyol top car refinish and forms a two-component product. Golden acrylic provides ahigh color retention, excellent flow and leveling, good weathering and chemical resistance properties are easily achieved.",
+    "fullDescription": "GP-500 is two component acrylic polyol top car refinish and forms a two-component product. Golden acrylic provides ahigh color retention, excellent flow and leveling, good weathering and chemical resistance properties are easily achieved."
+  },
+  {
+    "id": "40",
+    "sku": "asdf109",
+    "name": "Base Coat Paint",
+    "slug": "base-coat-paint",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-400",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/base-coat-paint.jpg",
+      "/assets/images/product/auto/base-coat-paint.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/base-coat-paint.jpg"
+    ],
+    "productTDSFile": "/assets/tds/base-coat-paint.pdf",
+    "shortDescription": "GP-400 is a base coat color mixing system that offers solid color base pigmented, metallic, xirllic and pearl color effect. Golden base coat is used in combination with recommended golden clear coat to give hardness and gloss finish.",
+    "fullDescription": "GP-400 is a base coat color mixing system that offers solid color base pigmented, metallic, xirllic and pearl color effect. Golden base coat is used in combination with recommended golden clear coat to give hardness and gloss finish."
+  },
+  {
+    "id": "41",
+    "sku": "asdf109",
+    "name": "Medium Solid Clear Coat",
+    "slug": "ms-clear-coat",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-700",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/ms-clear-coat.jpg",
+      "/assets/images/product/auto/ms-clear-coat.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/ms-clear-coat.jpg"
+    ],
+    "productTDSFile": "/assets/tds/ms-clear-coat.pdf",
+    "shortDescription": "GP700 is a two-component acrylic polyurethane, medium solids, designed especially used for easy application and spraying over base coat.Medium clear coat provides a high gloss retention, excellent flow and leveling,good weathering and chemical resistance properties are easily achieved.",
+    "fullDescription": "GP700 is a two-component acrylic polyurethane, medium solids, designed especially used for easy application and spraying over base coat.Medium clear coat provides a high gloss retention, excellent flow and leveling,good weathering and chemical resistance properties are easily achieved."
+  },
+  {
+    "id": "42",
+    "sku": "asdf109",
+    "name": "Medium Solid Hardener",
+    "slug": "ms-hardner",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Ms-hardner",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/ms-hardner.jpg",
+      "/assets/images/product/auto/ms-hardner.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/ms-hardner.jpg"
+    ],
+    "productTDSFile": "/assets/tds/golden_2k_hardener.pdf",
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "46",
+    "sku": "asdf109",
+    "name": "2K Acrylic Primer",
+    "slug": "2k-acrylic-primer",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-310",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/2k-acrylic-primer.jpg",
+      "/assets/images/product/auto/2k-acrylic-primer.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/2k-acrylic-primer.jpg"
+    ],
+    "productTDSFile": "/assets/tds/2k-acrylic-primer.pdf",
+    "shortDescription": "GP-310 is a two component filler and polyisocynate hardener. This product is designed to give high filling, quick drying and excellent sanding properties, its suitable substrate for car and wood refinishes.",
+    "fullDescription": "GP-310 is a two component filler and polyisocynate hardener. This product is designed to give high filling, quick drying and excellent sanding properties, its suitable substrate for car and wood refinishes."
+  },
+  {
+    "id": "43",
+    "sku": "asdf109",
+    "name": "2K Primer Hardner",
+    "slug": "2k-primer-hardner",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-311",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/2k-primer-hardner.jpg",
+      "/assets/images/product/auto/2k-primer-hardner.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/2k-primer-hardner.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "44",
+    "sku": "Golden Powder Coatings",
+    "name": "Golden Powder Coatings",
+    "slug": "golden-powder-coatings",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Golden Powder Coatings",
+    "category": [
+      "Powder Coatings"
+    ],
+    "tag": [
+      "Powder Coatings"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/powder-coatings/golden.jpg",
+      "/assets/images/product/powder-coatings/golden.jpg"
+    ],
+    "image": [
+      "/assets/images/product/powder-coatings/golden.jpg"
+    ],
+    "productTDSFile": "",
+    "shortDescription": "Golden Powder Coatings",
+    "fullDescription": "Golden Powder Coatings"
+  },
+  {
+    "id": "45",
+    "sku": "asdf109",
+    "name": "1K Primer",
+    "slug": "1k-primer",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/1k-primer.jpg",
+      "/assets/images/product/auto/1k-primer.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/1k-primer.jpg"
+    ],
+    "productTDSFile": "/assets/tds/1k-filler.pdf",
+    "shortDescription": "A high quality water-based paint based on acrylic polymers and high quality coloring materials. After application, it gives a smooth, regular, bright white surface that resembles an egg shell. It also gives long-term protection to the internal surfaces, it is characterized by high resistance to different atmospheres and with a high brushing rate and coverage.",
+    "fullDescription": "A high quality water-based paint based on acrylic polymers and high quality coloring materials. After application, it gives a smooth, regular, bright white surface that resembles an egg shell. It also gives long-term protection to the internal surfaces, it is characterized by high resistance to different atmospheres and with a high brushing rate and coverage."
+  },
+  {
+    "id": "47",
+    "sku": "asdf109",
+    "name": "High Solid Clear Coat",
+    "slug": "hs-clear-coat",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-701",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/hs-clear-coat.jpg",
+      "/assets/images/product/auto/hs-clear-coat.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/hs-clear-coat.jpg"
+    ],
+    "productTDSFile": "/assets/tds/hs-clear-coat.pdf",
+    "shortDescription": "GP-701 is a two-component acrylic polyurethane, High solids, designed especially used for easy application and spraying over base coat. High solid clear coat provides a very high gloss retention, excellent flow and leveling, excellent weathering and chemical resistance properties are easily achieved.",
+    "fullDescription": "GP-701 is a two-component acrylic polyurethane, High solids, designed especially used for easy application and spraying over base coat. High solid clear coat provides a very high gloss retention, excellent flow and leveling, excellent weathering and chemical resistance properties are easily achieved."
+  },
+  {
+    "id": "48",
+    "sku": "asdf109",
+    "name": "High Solid Hardener",
+    "slug": "hs-hardner",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "HS Hardner",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/hs-hardner.jpg",
+      "/assets/images/product/auto/hs-hardner.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/hs-hardner.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "49",
+    "sku": "asdf109",
+    "name": "Plastic Primer",
+    "slug": "plastic-primer",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-350",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/plastic-primer.jpg",
+      "/assets/images/product/auto/plastic-primer.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/plastic-primer.jpg"
+    ],
+    "productTDSFile": "/assets/tds/plastic-primer.pdf",
+    "shortDescription": "GP-350 is an adhesion primer based on special resin. Golden plastic primer used to improve the adhesion of two component polyurethane paints on plastic part of the car body.",
+    "fullDescription": "GP-350 is an adhesion primer based on special resin. Golden plastic primer used to improve the adhesion of two component polyurethane paints on plastic part of the car body."
+  },
+  {
+    "id": "51",
+    "sku": "asdf109",
+    "name": "Thinner",
+    "slug": "thinner",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Thinner",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/thinner.jpg",
+      "/assets/images/product/auto/thinner.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/thinner.jpg"
+    ],
+    "productTDSFile": "/assets/tds/thinner.pdf",
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "34",
+    "sku": "asdf109",
+    "name": "Thinner 125",
+    "slug": "thinner-125",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Thinner-125",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/thinner-125.jpg",
+      "/assets/images/product/industrial/thinner-125.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/thinner-125.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "50",
+    "sku": "asdf109",
+    "name": "Stonechip Protector",
+    "slug": "stone-chip-protector",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-360",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/stone-chip-protector.jpg",
+      "/assets/images/product/auto/stone-chip-protector.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/stone-chip-protector.jpg"
+    ],
+    "productTDSFile": "/assets/tds/stone-chip-protector.pdf",
+    "shortDescription": "An alkyd resin, chlorinated rubber based, specially designed for protecting the bottom and themetal parts of cars, characterized by its anticorrosion properties, good adhesion over metal, outstanding chemical resistance, good sanding properties and high filling power.",
+    "fullDescription": "An alkyd resin, chlorinated rubber based, specially designed for protecting the bottom and themetal parts of cars, characterized by its anticorrosion properties, good adhesion over metal, outstanding chemical resistance, good sanding properties and high filling power."
+  },
+  {
+    "id": "52",
+    "sku": "asdf109",
+    "name": "Polyster Putty",
+    "slug": "polyster-putty",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-200",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/polyster-putty.jpg",
+      "/assets/images/product/auto/polyster-putty.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/polyster-putty.jpg"
+    ],
+    "productTDSFile": "/assets/tds/polyster-putty.pdf",
+    "shortDescription": "GP-200 is a two-component polyester putty for cover the cracks, small holes, and used to fill dents of car body, with good sanding properties.",
+    "fullDescription": "GP-200 is a two-component polyester putty for cover the cracks, small holes, and used to fill dents of car body, with good sanding properties."
+  },
+  {
+    "id": "53",
+    "sku": "asdf109",
+    "name": "Polyfiber Putty",
+    "slug": "polyfiber-putty",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-240",
+    "category": [
+      "Automative"
+    ],
+    "tag": [
+      "Automative"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/auto/polyfiber-putty.jpg",
+      "/assets/images/product/auto/polyfiber-putty.jpg"
+    ],
+    "image": [
+      "/assets/images/product/auto/polyfiber-putty.jpg"
+    ],
+    "productTDSFile": "/assets/tds/polyfiber-putty.pdf",
+    "shortDescription": "GP-240 is a two-component polyester glass-fiber putty for cove the cracks, and used to fill deep dents and irregular parts of the car body.",
+    "fullDescription": "GP-240 is a two-component polyester glass-fiber putty for cove the cracks, and used to fill deep dents and irregular parts ofthe car body."
+  },
+  {
+    "id": "55",
+    "sku": "asdf103",
+    "name": "Golden Universal Colorant",
+    "slug": "golden-universal-colorant",
+    "price": 14,
+    "discount": 0,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 13,
+    "serial": "Golden Universal Colorant",
+    "category": [
+      "Architecture"
+    ],
+    "tag": [
+      "Architecture"
+    ],
+    "stock": 10,
+    "thumbImage": [
+      "/assets/images/product/arch/golden-universal-colorant.jpg",
+      "/assets/images/product/arch/golden-universal-colorant.jpg"
+    ],
+    "image": [
+      "/assets/images/product/arch/golden-universal-colorant.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },{
+    "id": "56",
+    "sku": "asdf109",
+    "name": "NC Laquar",
+    "slug": "nc-laquar",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-2400",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/nc-laqur.jpg",
+      "/assets/images/product/industrial/nc-laqur.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/nc-laqur.jpg"
+    ],
+    "productTDSFile": "/assets/tds/nc-paints.pdf",
+    "shortDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance.",
+    "fullDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance."
+  },{
+    "id": "57",
+    "sku": "asdf109",
+    "name": "NC Primer",
+    "slug": "nc-primer",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-320",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/nc-primer.jpg",
+      "/assets/images/product/industrial/nc-primer.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/nc-primer.jpg"
+    ],
+    "productTDSFile": "/assets/tds/nc-paints.pdf",
+    "shortDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance.",
+    "fullDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance."
+  },{
+    "id": "58",
+    "sku": "asdf109",
+    "name": "NC Sealer",
+    "slug": "nc-sealer",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-1400",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/nc-sealer.jpg",
+      "/assets/images/product/industrial/nc-sealer.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/nc-sealer.jpg"
+    ],
+    "productTDSFile": "/assets/tds/nc-paints.pdf",
+    "shortDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance.",
+    "fullDescription": "Formulated from Nitrocellulose and alkyd resins, fast drying Top coat for car refinishing, it gives excellent finish and complete re-spray. Saves time as a result of its excellent hiding power.Good initial gloss, great ease of polishing and, water resistance."
+  },
+  {
+    "id": "37",
+    "sku": "asdf109",
+    "name": "Polyurethane Finish",
+    "slug": "polyurethane-wood-finish",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Polyurethane Finish",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/wood/polyurethane-wood-finish.jpg",
+      "/assets/images/product/wood/polyurethane-wood-finish.jpg"
+    ],
+    "image": [
+      "/assets/images/product/wood/polyurethane-wood-finish.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "59",
+    "sku": "asdf109",
+    "name": "Synthetic Paints",
+    "slug": "synthetic-paints",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "GP-650",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/synthetic-paint.jpg",
+      "/assets/images/product/industrial/synthetic-paint.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/synthetic-paint.jpg"
+    ],
+    "productTDSFile": "/assets/tds/synthetic-paint.pdf",
+    "shortDescription": "Formulated from alkyd modified resins, fast drying Top coat for car refinishing and commercial vehicle, it gives excellent finish and complete re-spray. It has an excellent hiding power and excellent initial gloss.",
+    "fullDescription": "Formulated from alkyd modified resins, fast drying Top coat for car refinishing and commercial vehicle, it gives excellent finish and complete re-spray. It has an excellent hiding power and excellent initial gloss."
+  },
+  {
+    "id": "36",
+    "sku": "asdf109",
+    "name": "Wood Stain Varnish",
+    "slug": "wood-stain-varnish",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Wood Stain Varnish",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/wood/wood-stain-varnish.jpg",
+      "/assets/images/product/wood/wood-stain-varnish.jpg"
+    ],
+    "image": [
+      "/assets/images/product/wood/wood-stain-varnish.jpg"
+    ],
+    "productTDSFile": "/assets/tds/wood-stain-varnish.pdf",
+    "shortDescription": "High quality, quick drying. Stain used to provide a long lasting brilliant and transparent appearance to woodcsurface. It forms a tough flexible film and the wood grains remain visible on the surface.",
+    "fullDescription": "High quality, quick drying. Stain used to provide a long lasting brilliant and transparent appearance to woodcsurface. It forms a tough flexible film and the wood grains remain visible on the surface."
+  },
+  {
+    "id": "35",
+    "sku": "asdf109",
+    "name": "Thinner 903",
+    "slug": "thinner-903",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Thinner-903",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/thinner-903.jpg",
+      "/assets/images/product/industrial/thinner-903.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/thinner-903.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "60",
+    "sku": "asdf109",
+    "name": "Thinner 144",
+    "slug": "thinner-144",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Thinner-144",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/industrial/thinner-144.jpg",
+      "/assets/images/product/industrial/thinner-144.jpg"
+    ],
+    "image": [
+      "/assets/images/product/industrial/thinner-144.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "38",
+    "sku": "asdf109",
+    "name": "Polyurethane Hardener",
+    "slug": "polyurethane-hardener",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "serial": "Polyurethane Hardener",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/wood/polyurethane-hardener.jpg",
+      "/assets/images/product/wood/polyurethane-hardener.jpg"
+    ],
+    "image": [
+      "/assets/images/product/wood/polyurethane-hardener.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "54",
+    "sku": "asdf103",
+    "name": "Golden Linseed Oil",
+    "slug": "golden-linseed-oil",
+    "price": 14,
+    "discount": 0,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 13,
+    "serial": "Golden Linseed Oil",
+    "category": [
+      "Industrial & Wood Finish"
+    ],
+    "tag": [
+      "Industrial & Wood Finish"
+    ],
+    "stock": 10,
+    "thumbImage": [
+      "/assets/images/product/wood/golden-linseed-oil.jpg",
+      "/assets/images/product/wood/golden-linseed-oil.jpg"
+    ],
+    "image": [
+      "/assets/images/product/wood/golden-linseed-oil.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  }
+]

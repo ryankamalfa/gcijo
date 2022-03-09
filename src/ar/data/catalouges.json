@@ -1,0 +1,465 @@
+[
+    {
+        "catalouge": true,
+        "id": "1",
+        "sku": "asdf101",
+        "name": "دهانات مائية",
+        "slug": "architecture-aqua-paints",
+        "price": 17,
+        "discount": 10,
+        "new": true,
+        "rating": 4,
+        "ratingCount": 5,
+        "saleCount": 90,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "thumbImage": [
+            "/assets/images/catalouges/architecture-aqua-paints.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/architecture-aqua-paints.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/architecture-aqua-paints.pdf",
+        "shortDescription": "لوحة جديدة وهادئة تم إنشاؤها بنغمة واحدة من الألوان. ظلال مختلفة من اللون الأزرق قادرة على تنشيط أي غرفة. يتيح اللون الأزرق الغامق مع اللون الأزرق الفاتح  مساحة واسعة ،.",
+        "fullDescription": "لوحة جديدة وهادئة تم إنشاؤها بنغمة واحدة من الألوان. ظلال مختلفة من اللون الأزرق قادرة على تنشيط أي غرفة. يتيح اللون الأزرق الغامق مع اللون الأزرق الفاتح  مساحة واسعة ،."
+    },
+    {
+        "catalouge": true,
+        "id": "2",
+        "sku": "asdf102",
+        "name": "دهانات كلاسيكية",
+        "slug": "architecture-classic-paints",
+        "price": 18,
+        "discount": 12,
+        "new": true,
+        "rating": 5,
+        "ratingCount": 15,
+        "saleCount": 10,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 10,
+        "thumbImage": [
+            "/assets/images/catalouges/architecture-classic-paints.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/architecture-classic-paints.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/architecture-classic-paints.pdf",
+        "shortDescription": "للحصول على إحساس صيفي ودفء كالشتاء ، اعتمد على الظلال الكلاسيكية لأنها تعكس انطباعًا آسرًا عتيقًا وحديثًا.في هذه المجموعة ، يتم توفير العديد من الظلال ، بخلاف أن الألوان الكلاسيكية لها مساحة أنيقة وتوفر مساحة ، ويمكن استخدامها للمساحات الواسعة والغرف.",
+        "fullDescription": "للحصول على إحساس صيفي ودفء كالشتاء ، اعتمد على الظلال الكلاسيكية لأنها تعكس انطباعًا آسرًا عتيقًا وحديثًا.في هذه المجموعة ، يتم توفير العديد من الظلال ، بخلاف أن الألوان الكلاسيكية لها مساحة أنيقة وتوفر مساحة ، ويمكن استخدامها للمساحات الواسعة والغرف."
+    },
+    {
+        "catalouge": true,
+        "id": "3",
+        "sku": "asdf103",
+        "name": "دهانات الاطفال",
+        "slug": "architecture-kids-paints",
+        "price": 14,
+        "discount": 0,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 13,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 10,
+        "thumbImage": [
+            "/assets/images/catalouges/architecture-kids-paints.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/architecture-kids-paints.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/architecture-kids-paints.pdf",
+        "shortDescription": "يمكن أن يكون اختيار نظام ألوان لغرفة طفلك أمرًا ممتعًا للغاية لأن المساحات المخصصة للصغار تسمح بمزيد من الحرية الإبداعية. سواء كان أطفالك مرحين وحيويين و هادئين ولطيفين أو مزيجًا من الاثنين ، استكشف شخصياتهم لاكتشاف نظام الألوان المناسب لغرفهم.",
+        "fullDescription": "يمكن أن يكون اختيار نظام ألوان لغرفة طفلك أمرًا ممتعًا للغاية لأن المساحات المخصصة للصغار تسمح بمزيد من الحرية الإبداعية. سواء كان أطفالك مرحين وحيويين و هادئين ولطيفين أو مزيجًا من الاثنين ، استكشف شخصياتهم لاكتشاف نظام الألوان المناسب لغرفهم."
+    },
+    {
+        "catalouge": true,
+        "id": "4",
+        "sku": "asdf104",
+        "name": "دهان خارجي",
+        "slug": "architecture-exterior",
+        "price": 12,
+        "discount": 5,
+        "new": true,
+        "rating": 4,
+        "ratingCount": 15,
+        "saleCount": 19,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 12,
+        "thumbImage": [
+            "/assets/images/catalouges/architecture-exterior.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/architecture-exterior.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/architecture-exterior.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "5",
+        "sku": "asdf105",
+        "name": "دهانات دخلية",
+        "slug": "architecture-interior",
+        "price": 16,
+        "discount": 0,
+        "new": true,
+        "rating": 2,
+        "ratingCount": 5,
+        "saleCount": 12,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 14,
+        "thumbImage": [
+            "/assets/images/catalouges/architecture-interior.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/architecture-interior.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/architecture-interior.pdf",
+        "shortDescription": "مجموعة مختارة من الألوان المقترنة بشكل مثالي. تم اختيار لون الطلاء الغني والمتطور الذي يتكون من لوحة Perfect Palette ، الذي تم اختياره خصيصًا من نظام Golden Paint الجديد ، بشكل جميل بمفرده أو في انسجام ، مما يسهل اختيار لون الطلاء الذي يناسبك تمامًا ومنزلك. تتنوع هذه المجموعة من الألوان متعددة الاستخدامات والدائمة من الأبيض الفاتح والبيج ، ودرجات الألوان الترابية الباهتة ، إلى الألوان المحايدة الدافئة.",
+        "fullDescription": "مجموعة مختارة من الألوان المقترنة بشكل مثالي. تم اختيار لون الطلاء الغني والمتطور الذي يتكون من لوحة Perfect Palette ، الذي تم اختياره خصيصًا من نظام Golden Paint الجديد ، بشكل جميل بمفرده أو في انسجام ، مما يسهل اختيار لون الطلاء الذي يناسبك تمامًا ومنزلك. تتنوع هذه المجموعة من الألوان متعددة الاستخدامات والدائمة من الأبيض الفاتح والبيج ، ودرجات الألوان الترابية الباهتة ، إلى الألوان المحايدة الدافئة."
+    },
+    {
+        "catalouge": true,
+        "id": "6",
+        "sku": "asdf106",
+        "name": "سموكي",
+        "slug": "architecture-smoky",
+        "price": 12,
+        "discount": 10,
+        "new": true,
+        "rating": 5,
+        "ratingCount": 4,
+        "saleCount": 16,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 0,
+        "thumbImage": [
+            "/assets/images/catalouges/architecture-smoky.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/architecture-smoky.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/architecture-smoky.pdf",
+        "shortDescription": "These shades of gray are anything but elegant. Whether cool, warm, light, or bold, grays of all tones and intensities provide a fresh backdrop for decor and coordinate beautifully with tile, countertops, furnishings, and art. Gray paint colors help give spaces a touch of modernity but also it adds a classic charm. Use gray to get a classic and trendy look in a living room.",
+        "fullDescription": "These shades of gray are anything but elegant. Whether cool, warm, light, or bold, grays of all tones and intensities provide a fresh backdrop for decor and coordinate beautifully with tile, countertops, furnishings, and art. Gray paint colors help give spaces a touch of modernity but also it adds a classic charm. Use gray to get a classic and trendy look in a living room."
+    },
+    {
+        "catalouge": true,
+        "id": "7",
+        "sku": "asdf107",
+        "name": "Automative Car Paints",
+        "slug": "automative-refinish-car-paints",
+        "price": 17,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 7,
+        "saleCount": 13,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 18,
+        "thumbImage": [
+            "/assets/images/catalouges/automative-refinish-car-paints.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/automative-refinish-car-paints.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/automative-refinish-car-paints.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "8",
+        "sku": "asdf108",
+        "name": "ديكوري كريستال",
+        "slug": "decorative-crystal",
+        "price": 15,
+        "discount": 0,
+        "new": true,
+        "rating": 5,
+        "ratingCount": 15,
+        "saleCount": 30,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 12,
+        "thumbImage": [
+            "/assets/images/catalouges/decorative-crystal.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/decorative-crystal.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/decorative-crystal.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "9",
+        "sku": "asdf109",
+        "name": "ديكوري آيس",
+        "slug": "decorative-ice",
+        "price": 20,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 20,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 16,
+        "thumbImage": [
+            "/assets/images/catalouges/decorative-ice.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/decorative-ice.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/decorative-ice.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "10",
+        "sku": "asdf109",
+        "name": "ديكوري كافيار",
+        "slug": "decorative-kafear",
+        "price": 20,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 20,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 16,
+        "thumbImage": [
+            "/assets/images/catalouges/decorative-kafear.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/decorative-kafear.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/decorative-kafear.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "11",
+        "sku": "asdf109",
+        "name": "Decorative Nover",
+        "slug": "decorative-novel",
+        "price": 20,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 20,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 16,
+        "thumbImage": [
+            "/assets/images/catalouges/decorative-novel.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/decorative-novel.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/decorative-novel.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "12",
+        "sku": "asdf109",
+        "name": "ديكوري فيرا",
+        "slug": "decorative-vera",
+        "price": 20,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 20,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 16,
+        "thumbImage": [
+            "/assets/images/catalouges/decorative-vera.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/decorative-vera.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/decorative-vera.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "13",
+        "sku": "asdf109",
+        "name": "دهانات ايناميل",
+        "slug": "industrial-enamel-paint",
+        "price": 20,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 20,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 16,
+        "thumbImage": [
+            "/assets/images/catalouges/industrial-enamel-paint.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/industrial-enamel-paint.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/industrial-enamel-paint.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "14",
+        "sku": "asdf109",
+        "name": "همر فنش",
+        "slug": "industrial-hammer-finish-paint",
+        "price": 20,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 20,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 16,
+        "thumbImage": [
+            "/assets/images/catalouges/industrial-hammer-finish-paint.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/industrial-hammer-finish-paint.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/industrial-hammer-finish-paint.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "15",
+        "sku": "asdf109",
+        "name": "بودرة حرارية",
+        "slug": "powder-coatings-powder-paint",
+        "price": 20,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 20,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 16,
+        "thumbImage": [
+            "/assets/images/catalouges/powder-coatings-powder-paint.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/powder-coatings-powder-paint.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/powder-coatings-powder-paint.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    },
+    {
+        "catalouge": true,
+        "id": "16",
+        "sku": "asdf109",
+        "name": "Wood Stain Varnish",
+        "slug": "wood-finish-wood-stain-varnish",
+        "price": 20,
+        "discount": 12,
+        "new": true,
+        "rating": 3,
+        "ratingCount": 5,
+        "saleCount": 20,
+        "category": [
+            "decor"
+        ],
+        "tag": [
+            "decor"
+        ],
+        "stock": 16,
+        "thumbImage": [
+            "/assets/images/catalouges/wood-finish-wood-stain-varnish.jpg"
+        ],
+        "image": [
+            "/assets/images/catalouges/wood-finish-wood-stain-varnish.jpg"
+        ],
+        "productPDFFile": "/assets/catalouges/wood-finish-wood-stain-varnish.pdf",
+        "shortDescription": "",
+        "fullDescription": ""
+    }
+]

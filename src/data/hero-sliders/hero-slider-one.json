@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/images/slides/1.jpg",
+    "title": "Inspired By Love.",
+    "subtitle": "",
+    "url": "/shop/left-sidebar"
+  },
+  {
+    "id": "2",
+    "image": "/assets/images/slides/2.jpg",
+    "title": "Wide Catalouge Collection.",
+    "subtitle": "",
+    "url": "/shop/catalouges"
+  },
+  {
+    "id": "3",
+    "image": "/assets/images/slides/3.jpg",
+    "title": "Quality With Perfection.",
+    "subtitle": "",
+    "url": "/shop/left-sidebar?category=decorative"
+  },
+  {
+    "id": "4",
+    "image": "/assets/images/slides/4.jpg",
+    "title": "Experience only Quality.",
+    "subtitle": "",
+    "url": "/shop/left-sidebar?category=architecture"
+  },
+  {
+    "id": "5",
+    "image": "/assets/images/slides/5.jpg",
+    "title": "We Love Cars, Too.",
+    "subtitle": "",
+    "url": "/shop/left-sidebar?category=automative"
+  },
+
+  {
+    "id": "7",
+    "image": "/assets/images/slides/7.jpg",
+    "title": "Endless Color Choices.",
+    "subtitle": "",
+    "url": "/shop/left-sidebar?category=architecture"
+  },
+  {
+    "id": "8",
+    "image": "/assets/images/slides/8.jpg",
+    "title": "",
+    "subtitle": "",
+    "url": ""
+  },
+  {
+    "id": "9",
+    "image": "/assets/images/slides/9.jpg",
+    "title": "",
+    "subtitle": "",
+    "url": ""
+  },
+    {
+    "id": "10",
+    "image": "/assets/images/slides/10.jpg",
+    "title": "",
+    "subtitle": "",
+    "url": ""
+  },
+  {
+    "id": "11",
+    "image": "/assets/images/slides/11.jpg",
+    "title": "When Freshness<br/>meets colorful",
+    "subtitle": "",
+    "url": "/shop/left-sidebar?category=architecture"
+  },
+  {
+    "id": "14",
+    "image": "/assets/images/slides/14.jpg",
+    "title": "WOOD STAIN<br/>VARNISHIN",
+    "subtitle": "",
+    "url": "/shop/left-sidebar?category=architecture"
+  },
+  {
+    "id": "13",
+    "image": "/assets/images/slides/13.jpg",
+    "title": "GOLDEN RELIC<br/>SOLVENT PAINT",
+    "subtitle": "",
+    "url": "/shop/left-sidebar?category=architecture"
+  },
+  {
+    "id": "15",
+    "image": "/assets/images/slides/15.jpg",
+    "title": "HAMMER<br/>FINISH",
+    "subtitle": "",
+    "url": "/shop/left-sidebar?category=architecture"
+  }
+]
